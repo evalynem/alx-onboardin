@@ -1,0 +1,8 @@
+Calculate a running sum
+Let the value of x , a , b be numbers
+	x= a+b
+For sum of positive numbers
+	Set x >= 0
+If the sum of x is a negative
+	Set x =< 0
+
