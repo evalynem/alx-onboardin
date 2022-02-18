@@ -1,0 +1,8 @@
+# alx-onboarding
+SET sum to 0
+READ Integer n from Input
+WHILE n is not null
+   sum = sum + (n squared)
+   READ n from Input
+END WHILE
+PRINT sum
