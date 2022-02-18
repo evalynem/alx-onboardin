@@ -1,0 +1,19 @@
+# alx-onboarding
+Algorithm START
+READ integers x, y, z from Input
+IF x < y THEN
+   IF y < z
+       PRINT  x, y, z
+   ELSE IF x < z THEN
+       PRINT x, z, y
+   ELSE
+       PRINT z, x, y
+   END IF ELSE
+ELSE IF x < z THEN
+   PRINT y, x, z
+ELSE IF y < z THEN 
+   PRINT y, z, x
+ELSE
+   PRINT z, y, x
+END IF ELSE
+Algorithm END
